@@ -1,3 +1,0 @@
-﻿  Farm-In-Cilent.cpp
-C:\Users\USER\Desktop\Farm-In-Client\Farm-In-Client\Farm-In-Cilent.cpp(71,76): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Farm-In-Client.vcxproj -> C:\Users\USER\Desktop\Farm-In-Client\x64\Debug\Farm-In-Client.exe
